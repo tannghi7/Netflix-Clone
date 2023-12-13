@@ -14,9 +14,11 @@ This is Netflix clone project using NextJs
 ![image](https://github.com/tannghi7/Netflix-Clone/assets/152240588/f5d650df-7a7a-4bb1-8067-d79009f24387)
 
 # Infor Modal
+ + This page will show information of movie
 ![image](https://github.com/tannghi7/Netflix-Clone/assets/152240588/c7c7dd6e-8df1-471b-8433-87f8ee07c5cf)
 
 # Movie Page
+ + This is place where we can watch movie
 ![image](https://github.com/tannghi7/Netflix-Clone/assets/152240588/2ad38551-e193-42f5-935b-c50bcbc65e38)
 
 # Deploy with Vercel 
